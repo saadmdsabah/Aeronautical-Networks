@@ -18,6 +18,10 @@ enhancing the overall in-flight experience.
 Routing Optimization for Aeronautical Networks: Maximizing Data 
 Transmission Rate and Minimizing Latency
 
+## Run the file locally
+1) There is only one column in the CSV file, so we must divide it into five columns: flight, timestamp, altitude, latitude, and longitude. Refer to the [link](https://spreadsheetplanet.com/split-one-column-into-multiple-columns-excel/)
+2) Run main.py
+
 ## Approach
 ![image](https://github.com/saadmdsabah/Aeronautical-Networks/assets/103499208/d811e2f4-8d79-4c80-83e2-2d19292f9850)
 

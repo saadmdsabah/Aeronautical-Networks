@@ -36,7 +36,7 @@ Transmission Rate and Minimizing Latency
 6. Implementation and Deployment: Implement the selected routing solution in the aeronautical network infrastructure. Monitor and evaluate the performance of the deployed solution to ensure it meets the desired objectives in a real-world setting.
 
 ## Output
-### FOR SINGLE-OBJECTIVE OPTIMIZATION
+### SINGLE-OBJECTIVE OPTIMIZATION
 
 ![image](https://github.com/saadmdsabah/Aeronautical-Networks/assets/103499208/c8ee54bb-c505-477a-96e5-c3ffea01f5b3)
 
